@@ -3,12 +3,11 @@
 ## Installed Tools
 | Tool | Version |
 |------|---------|
-| Node.js | v__ |
-| npm | __ |
-| Git | __ |
-| VS Code | __ |
+| Node.js | v24.18.0 |
+| npm | 11.16.0 |
+| Git | 2.54.0.windows.1 |
+| VS Code | 1.146.0 |
 | Database | __ |
-
 ## Screenshots
 ### Node.js and npm
 ![Node version](screenshots/node-version.jpeg)
