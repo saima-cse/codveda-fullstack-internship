@@ -7,7 +7,7 @@
 | npm | 11.16.0 |
 | Git | 2.54.0.windows.1 |
 | VS Code | 1.146.0 |
-| Database | __ |
+| Database | PostgreSQL 18.x (pgAdmin 4) |
 ## Screenshots
 ### Node.js and npm
 ![Node version](screenshots/node-version.jpeg)
@@ -17,6 +17,9 @@
 
 ### Git setup
 ![Git setup](screenshots/git-setup.jpeg)
+
+### Database running
+![Database running](screenshots/database.jpeg)
 
 ## Git Commands Practiced
 `git init`, `git clone`, `git status`, `git add`, `git commit`, `git push`, `git pull`, `git branch`, `git checkout -b`, `git log`
