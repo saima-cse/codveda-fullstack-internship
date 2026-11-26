@@ -1,27 +1,6 @@
-# Task 1: Setup Development Environment
+# Codveda Full-Stack Development Internship
 
-## Installed Tools
-| Tool | Version |
-|------|---------|
-| Node.js | v__ |
-| npm | __ |
-| Git | __ |
-| VS Code | __ |
-| Database | __ |
+Codveda Full-Stack Development Internship tasks.
 
-## Screenshots
-### Node.js and npm
-![Node version](screenshots/node-version.jpeg)
-
-### Git version
-![Git version](screenshots/git-version.jpeg)
-
-### Git setup
-![Git setup](screenshots/git-setup.jpeg)
-
-## Git Commands Practiced
-`git init`, `git clone`, `git status`, `git add`, `git commit`, `git push`, `git pull`, `git branch`, `git checkout -b`, `git log`
-
-## Terminal Commands Practiced
-`pwd`, `ls`, `cd`, `mkdir`, `touch`, `rm`, `cp`, `mv`, `cat`, `clear`# codveda-fullstack-internship
-Codveda Full-Stack Development Internship tasks
+## Level 1 (Basic)
+- [Task 1: Setup Development Environment](level-1/task-1-environment-setup/README.md)
