@@ -9,3 +9,4 @@ Codveda Full-Stack Development Internship tasks.
 - [Task 2: Simple REST API](level-1/task-2-rest-api/README.md)
 ## Level 2 (Intermediate)
 - [Task 3: Database Integration](level-2/task-3-database-integration/README.md)
+- [Task 2: Authentication and Authorization](level-2/task-2-authentication/README.md)
